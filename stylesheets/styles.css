@@ -1,0 +1,19 @@
+* {margin: 0; padding: 0; border:0;}
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	background-color: #F0E68C;
+}
+
+h1 {
+	text-align: center;
+}
+
+#msg {
+	width: 70%;
+	height: 100px;
+	margin: 0 auto;
+	color: #2E8B57;
+	text-align: center;
+}
