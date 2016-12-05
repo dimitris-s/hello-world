@@ -3,7 +3,8 @@
 body {
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
-	background-color: #F0E68C;
+	/*background-color: #F0E68C;*/
+	background-color: #ADD8E6;
 }
 
 h1 {
@@ -15,5 +16,7 @@ h1 {
 	height: 100px;
 	margin: 0 auto;
 	color: #2E8B57;
+	font-weight: bold;
+	font-size: 20px;
 
 }
